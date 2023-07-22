@@ -1,6 +1,4 @@
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<h1 align="center"> Hello I'm Akbar <br> Let's Connect and have a Chat!💬</h1>
 <p align="center">
 <a href="https://t.me/akbar_odlov/">
   <img height="50" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png"/>
