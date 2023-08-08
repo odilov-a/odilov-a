@@ -24,14 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 <br>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=odilov-a&&show_icons=true&theme=radical"/>
-</a> 
-<br> <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilov-a&show_icons=true&theme=radical"/>
-</a>
-</p>
-
