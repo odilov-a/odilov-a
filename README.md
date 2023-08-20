@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h6 align="center">Hello I'm Akbar!</h6>
 
 ###
