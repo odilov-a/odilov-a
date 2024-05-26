@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello!<br> My name is Akbar Odilov. <br>I'm 21 years old and a backend developer in JavaScript.</p>
+<p align="left">Hello!<br> My name is Akbar Odilov. <br>I'm 21 years old and a backend developer.</p>
 
 ###
 
