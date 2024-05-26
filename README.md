@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">Hello!<br> My name is Akbar Odilov. <br>I'm 21 years old and backend developer JavaScript(ExpressJS).</p>
+<p align="left">Hello!<br> My name is Akbar Odilov. <br>I'm 21 years old and backend developer JavaScript.</p>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,react,electron" />
   </a>
 </p>
 
