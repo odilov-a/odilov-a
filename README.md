@@ -15,9 +15,6 @@
 </div>
 <h4 align="center">📫 Connect with Me</h4>
 <p align="center">
-  <a href="https://t.me/akbr_odlv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="https://www.linkedin.com/in/odilov-akbar/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
