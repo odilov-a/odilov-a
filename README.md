@@ -1,11 +1,11 @@
 <h4 align="center">👋 Hello, I'm Akbar!</h4>
 <p align="left">
-  I'm <strong>Akbar Odilov</strong>, a 22 year old <strong>backend developer</strong> passionate about creating efficient and scalable server-side applications. 🚀
+  I'm <strong>Akbar Odilov</strong>, a 22 year old <strong>backend developer</strong> passionate about creating efficient and scalable server-side applications.
 </p>
 <h4 align="center">🛠️ Tech Stack</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,electron,mongodb,postgresql" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,react,next,electron,mongodb,postgresql" alt="Skills Icons" />
   </a>
 </p>
 <h4 align="center">📫 Connect with Me</h4>
